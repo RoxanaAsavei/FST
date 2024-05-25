@@ -1,0 +1,3 @@
+C:/Users/roxan/CLionProjects/FST/cmake-build-debug/CMakeFiles/FST.dir
+C:/Users/roxan/CLionProjects/FST/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/roxan/CLionProjects/FST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
